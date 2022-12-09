@@ -1,7 +1,7 @@
 {
-"spider":"https://github.com/77Evans/Evans_TVBox/blob/main/0701.jar",
-
- "lives": [
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
+  "wallpaper": "https://gao.chuqiuyu.tk",
+  "lives": [
     {
       "name": "Adult",
       "type": 0,
@@ -12,7 +12,33 @@
       "type": 0,
       "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
     }
-"sites":[
+  ],
+  "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "drives": [
+          {
+            "name": "9T",
+            "server": "https://drive.9t.ee"
+          },
+          {
+            "name": "木偶",
+            "server": "https://www.kugutsu.ml"
+          },
+          {
+            "name": "秋雨",
+            "server": "https://share.laowang.me",
+            "password": "s8;K^h[j<b"
+          }
+        ]
+      }
+    },
 
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
