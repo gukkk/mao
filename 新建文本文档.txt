@@ -27,6 +27,17 @@
             "name": "9T",
             "server": "https://drive.9t.ee"
           },
+{
+            "key": "cchinaxxoo",
+            "name": "china影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "直接播放":"1",
+                "分类url": "https://chinaxxoo1000.pw/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                 "分类": "有码$23#中文$24"
+            }
+        },
           {
             "name": "木偶",
             "server": "https://www.kugutsu.ml"
